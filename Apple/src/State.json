@@ -1,0 +1,98 @@
+{
+  "cookie_user_id": "57e7c35d5b04a172f66f5e00",
+
+  "products": [
+    {
+      "_id": "0",
+      "index": 0,
+      "isActive": false,
+      "name": "Apple iphone 11",
+      "description": "Apple iOS, экран 6.1 IPS (828x1792), Apple A13 Bionic, ОЗУ 4 ГБ, флэш-память 64 ГБ, камера 12 Мп, аккумулятор 3046 мАч, 1 SIM ",
+      "specification": "Apple iOS, экран 6.1 IPS (828x1792), Apple A13 Bionic",
+      "price": 1000,
+      "picture": "https://content2.onliner.by/catalog/device/header/e2189f90f9088975c553ec33431fc186.jpeg"
+    },
+    {
+      "_id": "1",
+      "index": 1,
+      "isActive": true,
+      "name": "Apple iphone xr",
+      "description": "Apple iOS, экран 6.1 IPS (828x1792), Apple A12 Bionic, ОЗУ 3 ГБ, флэш-память 64 ГБ, камера 12 Мп, аккумулятор 2942 мАч, 1 SIM",
+      "specification": "Apple iOS, экран 6.1 IPS (828x1792), Apple A12 Bionic",
+      "price": 900,
+      "picture": "https://content2.onliner.by/catalog/device/header/98b65279323ea2beeba0c347f365f728.jpeg"
+    },
+    {
+      "_id": "2",
+      "index": 2,
+      "isActive": false,
+      "name": "Apple iphone 11pro",
+      "description": "Apple iOS, экран 5.8 OLED (1125x2436), Apple A13 Bionic, ОЗУ 4 ГБ, флэш-память 64 ГБ, камера 12 Мп, аккумулятор 3190 мАч, 1 SIM ",
+      "specification": "Apple iOS, экран 5.8 OLED (1125x2436), Apple A13 Bionic",
+      "price": 1200,
+      "picture": "https://content2.onliner.by/catalog/device/header/a7ded3fb068ed7547ef865b546d836d6.jpeg"
+    },
+    {
+      "_id": "3",
+      "index": 3,
+      "isActive": false,
+      "name": "Apple iPhone 7",
+      "description": "Apple iOS, экран 4.7 IPS (750x1334), Apple A10 Fusion, ОЗУ 2 ГБ, флэш-память 32 ГБ, камера 12 Мп, аккумулятор 1960 мАч, 1 SIM",
+      "specification": "Apple iOS, экран 4.7 IPS (750x1334), Apple A10 Fusion",
+      "price": 1419,
+      "picture": "https://content2.onliner.by/catalog/device/header/0ab0b43eb38b5767ea29c4509f0a9d3b.jpeg"
+    },
+    {
+      "_id": "4",
+      "index": 4,
+      "isActive": false,
+      "name": "Apple iPhone XS 64GB (серый космос)",
+      "description": "Apple iOS, экран 5.8 AMOLED (1125x2436), Apple A12 Bionic, ОЗУ 4 ГБ, флэш-память 64 ГБ, камера 12 Мп, аккумулятор 2658 мАч, 1 SIM",
+      "specification": "Apple iOS, экран 5.8 AMOLED (1125x2436), Apple A12 Bionic",
+      "price": 3951,
+      "picture": "https://content2.onliner.by/catalog/device/header/4859c8c144982b85f415595dd29c505b.jpeg"
+    }
+
+  ],
+  "productsCategories": [
+    {
+      "name": "Iphone",
+      "description": "На продажу все актуальные модели Iphone",
+      "url": "category",
+      "picture": "https://content2.onliner.by/catalog/device/header/4859c8c144982b85f415595dd29c505b.jpeg"
+    }
+  ],
+  "sitemap": [
+    {
+      "url": "/",
+      "name": "Главная"
+    },
+    {
+      "url": "/catalog",
+      "name": "Каталог"
+    },
+    {
+      "url": "/cart",
+      "name": "Корзина"
+    },
+    {
+      "url": "/login",
+      "name": "Вход"
+    }
+  ],
+  "cart": [
+    {
+      "_id": "0",
+      "quantity": 1
+    },
+    {
+      "_id": "2",
+      "quantity": 2
+    },
+    {
+      "_id": "3",
+      "quantity": 1
+    }
+  ]
+
+}

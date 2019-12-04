@@ -1,0 +1,15 @@
+.CatalogItemThumb
+{
+    width: 100%;
+    padding: 2%;
+}
+
+.add-to-cart
+{
+  width: 150px;
+  margin: 0em;
+  padding: 1em;
+  background-color: white;
+  font-size: 1em;
+  cursor: pointer;
+}

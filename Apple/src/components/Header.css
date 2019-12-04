@@ -1,0 +1,23 @@
+.Header {
+
+  width: 100%;
+  margin: 2em 0 3em;
+  background-color: black;
+  background-image: url(https://cdn1.thr.com/sites/default/files/imagecache/landscape_928x523/2011/10/applelogo.jpg);
+  background-size: 160px;
+  background-position: left;
+  background-repeat: no-repeat;
+  min-height: 50px;
+}
+
+.Header > ul {
+  list-style: none;
+  padding: 50px;
+  padding-left: 150px;
+  display: flex;
+
+}
+
+.Header > ul > li {
+  width: 100%;
+}

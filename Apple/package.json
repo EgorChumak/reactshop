@@ -1,0 +1,25 @@
+{
+  "name": "catalog-react",
+  "version": "1.0.0",
+  "description": "Simple catalog",
+  "private": true,
+  "scripts": {
+    "start": "react-scripts start --open",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "author": "BongoKilla",
+  "license": "MIT",
+  "bugs": {},
+  "devDependencies": {
+    "react-scripts": "^0.6.0"
+  },
+  "dependencies": {
+    "is_js": "^0.9.0",
+    "react": "^15.3.2",
+    "react-dom": "^15.3.2",
+    "react-router": "^2.8.1",
+    "reactstrap": "^8.0.1"
+  }
+}

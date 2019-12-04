@@ -1,0 +1,37 @@
+.CatalogItem .add-to-cart
+{
+  width: 150px;
+  margin: 0em;
+  padding: 1em;
+  background-color: white;
+  font-size: 1em;
+  cursor: pointer;
+}
+
+.name {
+
+
+}
+.picture {
+  float: left;
+  width: 100px;
+
+}
+
+.description {
+  float: left;
+  width: 500px;
+  height: auto;
+  padding-left: 30px ;
+  font-size: 1em;
+}
+
+
+
+
+
+.price {
+  float: left;
+  width: 100px;
+
+}

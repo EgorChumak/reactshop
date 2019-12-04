@@ -1,0 +1,17 @@
+.CatalogCategory
+{
+
+width: 100%;
+
+}
+
+.CatalogCategory .name
+{
+float: left;
+
+}
+
+.CatalogCategory .description
+{
+    float: left;
+}
